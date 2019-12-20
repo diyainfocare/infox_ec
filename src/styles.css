@@ -1,0 +1,27 @@
+/* Add application styles & imports to this file! */
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+html, body {
+    font-family: 'Roboto', sans-serif;
+}
+html {
+  scroll-behavior: smooth;
+  font-family: 'Roboto', sans-serif;
+}
+.inr:before {
+        content: "\20B9 ";
+    }
+.inr-dis:before {
+        content: "- \20B9 ";
+    }
+
+    @font-face {
+        font-family: "Cooper Black";
+        src: url("/infox_ec_cdn/CooperBlackStd.otf")
+    }
+    body {
+        color: black;
+        font-size: 95%;
+        font-family: 'Roboto', sans-serif;
+        background-image: url("./src/cdn/diagonal-waves.png");
+    }
