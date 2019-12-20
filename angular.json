@@ -30,7 +30,9 @@
               "src/cdn/mdb.min.css",
               "src/cdn/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/cdn/min.js"
+            ]
           },
           "configurations": {
             "production": {
