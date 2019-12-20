@@ -23,11 +23,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/cdn/styles.css",
+              "src/cdn/min.css",
               "src/cdn/m.min.css",
               "src/cdn/eui.css",
               "src/cdn/eui.res.css",
-              "src/cdn/mdb.min.css"
+              "src/cdn/mdb.min.css",
+              "src/cdn/styles.css"
             ],
             "scripts": []
           },
