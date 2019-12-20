@@ -31,7 +31,7 @@
               "src/cdn/styles.css"
             ],
             "scripts": [
-              "src/cdn/min.js"
+              "src/cdn/m.min.js"
             ]
           },
           "configurations": {
