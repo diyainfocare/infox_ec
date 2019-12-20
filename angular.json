@@ -31,6 +31,9 @@
               "src/cdn/styles.css"
             ],
             "scripts": [
+              "src/cdn/j.js",
+              "src/cdn/popper.js",
+              "src/cdn/b.js",
               "src/cdn/m.min.js"
             ]
           },
