@@ -23,7 +23,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css",
+              "src/cdn/styles.css",
               "src/cdn/m.min.css",
               "src/cdn/eui.css",
               "src/cdn/eui.res.css",
