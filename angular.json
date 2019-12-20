@@ -33,8 +33,9 @@
             "scripts": [
               "src/cdn/j.js",
               "src/cdn/popper.js",
+              "src/cdn/m.min.js",
               "src/cdn/b.js",
-              "src/cdn/m.min.js"
+              "my.js"
             ]
           },
           "configurations": {
