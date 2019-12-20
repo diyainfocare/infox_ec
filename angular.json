@@ -23,10 +23,10 @@
               "src/assets"
             ],
             "styles": [
-              "src/cdn/styles.css"
+              
             ],
             "scripts": [
-              "src/cdn/m.min.js"
+            
             ]
           },
           "configurations": {
