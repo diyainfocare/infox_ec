@@ -20,21 +20,13 @@
             "tsConfig": "src/tsconfig.app.json",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/cdn/"
             ],
             "styles": [
-              "src/cdn/min.css",
-              "src/cdn/m.min.css",
-              "src/cdn/eui.css",
-              "src/cdn/eui.res.css",
-              "src/cdn/mdb.min.css",
               "src/cdn/styles.css"
             ],
             "scripts": [
-              "src/cdn/j.js",
-              "src/cdn/popper.js",
-              "src/cdn/b.js",
-              "src/cdn/m.min.js"
+              "src/cdn/my.js"
             ]
           },
           "configurations": {
